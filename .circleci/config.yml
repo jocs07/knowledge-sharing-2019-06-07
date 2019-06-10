@@ -36,7 +36,7 @@ jobs:
       
       - add_ssh_keys:
           fingerprints:
-            - "15:58:28:e0:6c:18:3c:ad:3b:b2:9d:6f:ac:11:4d:f0"
+            - "35:5e:a3:45:c9:6e:56:4f:8e:63:b5:34:54:ce:9e:81"
 
       # config git
       - run : git config --global user.email "panitan.cha@ascendcorp.com"
